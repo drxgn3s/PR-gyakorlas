@@ -1,2 +1,3 @@
 # PR-gyakorlas
-Gyakorló repository a Git ágkezelés és a Pull Request munkafolyamat kipróbálásához.
+
+Helyi modositas a 3. sorban a main agon.
